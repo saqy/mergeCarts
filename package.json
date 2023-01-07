@@ -1,0 +1,14 @@
+{
+  "name": "cart-merge",
+  "version": "1.0.0",
+  "description": "A script to merge two shopping carts",
+  "main": "mergeCarts.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
